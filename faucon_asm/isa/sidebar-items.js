@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["InstructionKind","Assembly instruction kinds within the Falcon ISA."]],"struct":[["InstructionMeta","A collection of metadata for representing assembly instructions."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main",""]],"mod":[["code","Helpers for reading and uploading executables into the Falcon code segment."],["debugger","Implementation of a CLI debugger for driving the emulator."],["macros",""]]});

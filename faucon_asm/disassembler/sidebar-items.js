@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["read_instruction","Reads an instruction from a given [`Read`]er and attempts to parse it into an [`Instruction`] object."]]});

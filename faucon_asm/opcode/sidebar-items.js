@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OperandSize","Represents the operand size of an instruction."],["SubopcodeLocation","The location where the subopcode is stored within the instruction bytes."]],"fn":[["get_opcode_form","Extracts the instruction form from a given opcode."],["get_subopcode_location","Parses the [`SubopcodeLocation`] for the given opcode chunks."]]});
